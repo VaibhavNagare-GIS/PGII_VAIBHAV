@@ -16,4 +16,7 @@ The notebook demonstrates:
 - Interactive map using geemap
 
 Note: Interactive maps render in Google Colab. GitHub displays the code and outputs only.
-[![Open In Colab](https://colab.research.google.com/drive/1CTfbU1l_pvU2gD8f-CxH8HMUTBd57VC8?usp=sharing)
+
+## Open Interactive Notebook in Google Colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+(https://colab.research.google.com/drive/1CTfbU1l_pvU2gD8f-CxH8HMUTBd57VC8?usp=sharing)
