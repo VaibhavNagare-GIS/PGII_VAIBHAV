@@ -4,7 +4,7 @@
 This repository contains Exercise–1 for the subject Programming for Geospatial II (MSc Geoinformatics, Semester 2).
 
 ### Contents
-- Ex1.ipynb: Google Colab notebook using geemap and Google Earth Engine
+- Exercise_1.ipynb: Google Colab notebook using geemap and Google Earth Engine
 - GeoJSON files: Taluk boundary and OSM layers clipped to the selected taluk
 - Screenshot: Map visualization with appropriate symbology
 
