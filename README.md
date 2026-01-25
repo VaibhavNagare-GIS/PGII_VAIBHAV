@@ -1,22 +1,39 @@
-# PGII_VAIBHAV
-## Exercise 1 – Programming for Geospatial II
+## Programming for Geospatial II  
+**MSc Geoinformatics – Semester 2**
 
-This repository contains Exercise–1 for the subject Programming for Geospatial II (MSc Geoinformatics, Semester 2).
+This repository contains **Practical Exercise 1 and Exercise 2**, completed in a **single Google Colab notebook** using **Google Earth Engine and geemap**.
 
-### Contents
-- Exercise_1.ipynb: Google Colab notebook using geemap and Google Earth Engine
-- GeoJSON files: Taluk boundary and OSM layers clipped to the selected taluk
-- Screenshot: Map visualization with appropriate symbology
+---
 
-### Description
-The notebook demonstrates:
-- GEE authentication and initialization
-- Import of 3 taluka boundary (Pune City, Haveli And Mulshi) and OSM layers from GEE Assets
-- Visualization of multiple vector layers with appropriate symbology
-- Interactive map using geemap
+### Notebook
+- `Prac_EX1-2.ipynb` – Combined notebook for EX-1 and EX-2
 
-Note: Interactive maps render in Google Colab. GitHub displays the code and outputs only.
+---
 
-## Open Interactive Notebook in Google Colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+### Exercise 1
+- Selected a taluk boundary
+- Downloaded and clipped OSM vector layers (landuse, water bodies, waterways, railways, buildings)
+- Uploaded all layers to Google Earth Engine Assets
+- Visualized all layers together in Google Colab with appropriate symbology and basemap
+
+---
+
+### Exercise 2
+- Selected one optical dataset and one DEM from the GEE Data Catalog
+- Clipped datasets using the same taluk boundary
+- Computed and visualized NDVI
+- Visualized DEM
+- Exported NDVI and DEM as GeoTIFF
+- Converted taluk boundary and OSM layers to GeoJSON and uploaded to GitHub
+
+---
+
+> **Note:** Interactive maps render in Google Colab. GitHub displays the code and static outputs only.
+
+### Open Interactive Notebook in Google Colab
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]
 (https://colab.research.google.com/drive/1CTfbU1l_pvU2gD8f-CxH8HMUTBd57VC8?usp=sharing)
+
+Direct link:  
+https://colab.research.google.com/drive/1CTfbU1l_pvU2gD8f-CxH8HMUTBd57VC8?usp=sharing
