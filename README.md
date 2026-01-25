@@ -12,7 +12,7 @@ This repository contains **Practical Exercise 1 and Exercise 2**, completed in a
 
 ### Exercise 1
 - Selected a taluk boundary
-- Downloaded and clipped OSM vector layers (landuse, water bodies, waterways, railways, buildings)
+- Downloaded and clipped OSM vector layers (landuse, water bodies, waterways, roadways, railways, buildings)
 - Uploaded all layers to Google Earth Engine Assets
 - Visualized all layers together in Google Colab with appropriate symbology and basemap
 
