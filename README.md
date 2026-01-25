@@ -34,6 +34,3 @@ This repository contains **Practical Exercise 1 and Exercise 2**, completed in a
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]
 (https://colab.research.google.com/drive/1CTfbU1l_pvU2gD8f-CxH8HMUTBd57VC8?usp=sharing)
-
-Direct link:  
-https://colab.research.google.com/drive/1CTfbU1l_pvU2gD8f-CxH8HMUTBd57VC8?usp=sharing
