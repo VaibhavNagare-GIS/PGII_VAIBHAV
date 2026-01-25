@@ -11,7 +11,7 @@ This repository contains Exercise–1 for the subject Programming for Geospatial
 ### Description
 The notebook demonstrates:
 - GEE authentication and initialization
-- Import of taluk boundary and OSM layers from GEE Assets
+- Import of 3 taluka boundary (Pune City, Haveli And Mulshi) and OSM layers from GEE Assets
 - Visualization of multiple vector layers with appropriate symbology
 - Interactive map using geemap
 
