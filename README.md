@@ -20,7 +20,7 @@ This repository contains **Practical Exercise 1 and Exercise 2**, completed in a
 
 ### Exercise 2
 - Selected one optical dataset and one DEM from the GEE Data Catalog
-- Clipped datasets using the same taluk boundary
+- Clipped datasets using the same taluka boundary
 - Computed and visualized NDVI
 - Visualized DEM
 - Exported NDVI and DEM as GeoTIFF
